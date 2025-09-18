@@ -36,5 +36,5 @@ The project follows the CRISP-DM framework:
 * Test the pricing model with new car listings to confirm its reliability.
 
 ## Technologies Used
-* Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
+* Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Plotly)
 * Jupyter Notebook
